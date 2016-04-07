@@ -15,12 +15,6 @@ body {
 }
 
 /* Header */
-.headwer {
-  background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg) no-repeat center center; 
-  background-size: cover;
-  height: 800px;
-  text-align: center; 
-}
 .header {
   height: 800px;
   text-align: center; 
@@ -63,7 +57,7 @@ body {
 
 .btn {
 	color: #fff;
-	background: #000;
+	background: #303030;
 	padding: 10px 40px;
 	text-decoration: none; 
 	transition: background .5s; 
@@ -98,8 +92,6 @@ body {
 	padding: 0 10px;
 	transition: background .5s; 
 }
-
-
 
 /* Mani */
 .main .container {
@@ -146,7 +138,7 @@ body {
 /* Footer */
 .footer p { 
 	color: #fff;
-	font-size: 14px;  
+	font-size: 16px;  
 	height: 80px; 
 	line-height: 80px;
 	margin: 0;  
